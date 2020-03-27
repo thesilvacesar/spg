@@ -1,0 +1,15 @@
+# Folders
+dist/
+venv/
+build/
+.idea/
+build/
+.vscode/
+__pycache__/
+
+# Files
+*.ico
+*.txt
+*.pwd
+*.png
+*.spec
